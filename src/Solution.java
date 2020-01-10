@@ -1,7 +1,5 @@
 import java.util.*;
 
-//读入一个字符串，输出字符串中最长的数字串；
-//例：输入 abcd12345ed125ss123456789     输出123456789
 public class Solution {
     //合法括号
     public boolean chkParenthesis(String A, int n) {
